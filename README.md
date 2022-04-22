@@ -1,4 +1,4 @@
-### Hello, i'm Jordan, weh developer in Aurion from France 🇫🇷 Le Mans. 
+### Hello, i'm Jordan, web developer in Aurion from France 🇫🇷 Le Mans. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JordBSN" />
 
