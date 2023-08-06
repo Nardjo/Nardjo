@@ -9,3 +9,4 @@ I'm Jordan, frontend developer in [Aurion](https://www.agence-aurion.fr/) from F
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JordBSN)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/)[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JordBSN)
 
 Last updated: Sat Aug 05 2023 04:06:20 GMT+0000 (Coordinated Universal Time)
+Last updated: Sun Aug 06 2023 04:06:09 GMT+0000 (Coordinated Universal Time)
