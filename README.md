@@ -10,3 +10,4 @@ I'm Jordan, frontend developer in [Aurion](https://www.agence-aurion.fr/) from F
 
 Last updated: Sat Aug 05 2023 04:06:20 GMT+0000 (Coordinated Universal Time)
 Last updated: Sun Aug 06 2023 04:06:09 GMT+0000 (Coordinated Universal Time)
+Last updated: Mon Aug 07 2023 04:06:19 GMT+0000 (Coordinated Universal Time)
