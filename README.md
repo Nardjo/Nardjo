@@ -3,7 +3,7 @@
 I'm Jordan, frontend developer in [Aurion](https://www.agence-aurion.fr/) from France 🇫🇷 Le Mans.
 
 <!--START SENTENCE-->
-When I'm not coding, I'm searching for the 'inspect' button in the real world.
+My life is a constant animation between dreams and the DOM.
 <!--END SENTENCE-->
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -14,6 +14,6 @@ When I'm not coding, I'm searching for the 'inspect' button in the real world.
 
 
 <!--START DATE-->
-Last updated on: Sun Aug 13 2023
+Last updated on: Mon Aug 14 2023
 <!--END DATE-->
 
