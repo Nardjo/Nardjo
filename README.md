@@ -3,7 +3,7 @@
 I'm Jordan, frontend developer in [Aurion](https://www.agence-aurion.fr/) from France 🇫🇷 Le Mans.
 
 <!--START SENTENCE-->
-Pixel-perfecting life, one div at a time.
+When I'm not coding, I'm searching for the 'inspect' button in the real world.
 <!--END SENTENCE-->
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -14,6 +14,6 @@ Pixel-perfecting life, one div at a time.
 
 
 <!--START DATE-->
-Last updated on: Sun Sep 17 2023
+Last updated on: Mon Sep 18 2023
 <!--END DATE-->
 
