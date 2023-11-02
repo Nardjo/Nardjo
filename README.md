@@ -14,6 +14,6 @@ When I'm not coding, I'm searching for the 'inspect' button in the real world.
 
 
 <!--START DATE-->
-Last updated on: Wed Nov 01 2023
+Last updated on: Thu Nov 02 2023
 <!--END DATE-->
 
