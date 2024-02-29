@@ -1,5 +1,5 @@
 
-<h1>I'm Jordan, frontend developer in [Aurion](https://www.agence-aurion.fr/) from France 🇫🇷 Le Mans.</h1>
+Hello! I'm Jordan, frontend developer in  <a href=https://www.agence-aurion.fr/>Aurion</a> from France 🇫🇷 Le Mans.
 
 <!--START SENTENCE-->
 Pixel-perfecting life, one div at a time.
