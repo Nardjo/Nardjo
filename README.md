@@ -2,7 +2,7 @@
 Hello! I'm Jordan, frontend developer in  <a href=https://www.agence-aurion.fr/>Aurion</a> from France 🇫🇷 Le Mans.
 
 <!--START SENTENCE-->
-My life is a constant animation between dreams and the DOM.
+Pixel-perfecting life, one div at a time.
 <!--END SENTENCE-->
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -32,7 +32,7 @@ My life is a constant animation between dreams and the DOM.
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/jordan-bastin-bb278713a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!--START DATE-->
-Last updated on: Sat Mar 09 2024
+Last updated on: Sun Mar 10 2024
 <!--END DATE-->
 
 
