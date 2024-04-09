@@ -32,7 +32,7 @@ Pixel-perfecting life, one div at a time.
 <a target="_blank" href="https://www.linkedin.com/in/jordan-bastin-bb278713a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!--START DATE-->
-Last updated on: Mon Apr 08 2024
+Last updated on: Tue Apr 09 2024
 <!--END DATE-->
 
 
