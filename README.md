@@ -2,7 +2,7 @@
 Hello! I'm Jordan, frontend developer in  <a href=https://www.agence-aurion.fr/>Aurion</a> from France 🇫🇷 Le Mans.
 
 <!--START SENTENCE-->
-When I'm not coding, I'm searching for the 'inspect' button in the real world.
+Pixel-perfecting life, one div at a time.
 <!--END SENTENCE-->
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -32,7 +32,7 @@ When I'm not coding, I'm searching for the 'inspect' button in the real world.
 <a target="_blank" href="https://www.linkedin.com/in/jordan-bastin-bb278713a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!--START DATE-->
-Last updated on: Sun May 12 2024
+Last updated on: Mon May 13 2024
 <!--END DATE-->
 
 
