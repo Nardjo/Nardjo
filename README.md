@@ -32,7 +32,7 @@ When I'm not coding, I'm searching for the 'inspect' button in the real world.
 <a target="_blank" href="https://www.linkedin.com/in/jordan-bastin-bb278713a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!--START DATE-->
-Last updated on: Thu Jun 27 2024
+Last updated on: Fri Jun 28 2024
 <!--END DATE-->
 
 
