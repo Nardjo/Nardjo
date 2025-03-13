@@ -3,7 +3,7 @@ Hello! I'm Jordan, frontend developer in  <a href=https://www.agence-aurion.fr/>
 
 
 <!--START SENTENCE-->
-When I'm not coding, I'm searching for the 'inspect' button in the real world.
+My life is a constant animation between dreams and the DOM.
 <!--END SENTENCE-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/) 
@@ -17,7 +17,7 @@ When I'm not coding, I'm searching for the 'inspect' button in the real world.
 
 
 <!--START DATE-->
-Last updated on: Wed Mar 12 2025
+Last updated on: Thu Mar 13 2025
 <!--END DATE-->
 
 
