@@ -1,5 +1,5 @@
 
-Hello! I'm Jordan, frontend developer from France 🇫🇷.
+Hello! I'm Jordan, frontend developer from France.
 
 
 <!--START SENTENCE-->
