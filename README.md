@@ -3,7 +3,7 @@ Hello! I'm Jordan, frontend developer from France.
 
 
 <!--START SENTENCE-->
-Pixel-perfecting life, one div at a time.
+My life is a constant animation between dreams and the DOM.
 <!--END SENTENCE-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/) 
@@ -14,7 +14,7 @@ Pixel-perfecting life, one div at a time.
 
 
 <!--START DATE-->
-Last updated on: Fri Mar 28 2025
+Last updated on: Sat Mar 29 2025
 <!--END DATE-->
 
 
