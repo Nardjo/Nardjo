@@ -3,7 +3,7 @@ Hello! I'm Jordan, frontend developer from France.
 
 
 <!--START SENTENCE-->
-My life is a constant animation between dreams and the DOM.
+When I'm not coding, I'm searching for the 'inspect' button in the real world.
 <!--END SENTENCE-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/) 
@@ -14,7 +14,7 @@ My life is a constant animation between dreams and the DOM.
 
 
 <!--START DATE-->
-Last updated on: Wed Apr 23 2025
+Last updated on: Thu Apr 24 2025
 <!--END DATE-->
 
 
