@@ -2,9 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 const sentences = [
-  "Pixel-perfecting life, one div at a time.",
-  "When I'm not coding, I'm searching for the 'inspect' button in the real world.",
-  "My life is a constant animation between dreams and the DOM.",
+ "La perfection pixel par pixel, une div à la fois.",
+  "Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.",
+  "Ma vie est une animation constante entre les rêves et le DOM.",
 ];
 
 const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
