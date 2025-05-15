@@ -1,5 +1,6 @@
 
-Hello! I'm Jordan, frontend developer from France.
+Bienvenue dans mon portfolio ! Je suis Jordan, développeur web basé en France 🇫🇷. 
+Je suis spécialisé dans la création de sites e-commerce innovants et sur mesure, transformant vos objectifs commerciaux en solutions digitales performantes.
 
 
 <!--START SENTENCE-->
