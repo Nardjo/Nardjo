@@ -5,7 +5,7 @@ Je suis spécialisé dans la création de sites e-commerce innovants et sur mesu
 
 
 <!--START SENTENCE-->
-When I'm not coding, I'm searching for the 'inspect' button in the real world.
+Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.
 <!--END SENTENCE-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/) 
@@ -16,7 +16,7 @@ When I'm not coding, I'm searching for the 'inspect' button in the real world.
 
 
 <!--START DATE-->
-Last updated on: Thu May 15 2025
+Last updated on: Fri May 16 2025
 <!--END DATE-->
 
 
