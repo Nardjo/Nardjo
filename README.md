@@ -5,7 +5,7 @@ Je suis spécialisé dans la création de sites e-commerce innovants et sur mesu
 
 
 <!--START SENTENCE-->
-Ma vie est une animation constante entre les rêves et le DOM.
+Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.
 <!--END SENTENCE-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/) 
@@ -16,7 +16,7 @@ Ma vie est une animation constante entre les rêves et le DOM.
 
 
 <!--START DATE-->
-Last updated on: Tue May 20 2025
+Last updated on: Wed May 21 2025
 <!--END DATE-->
 
 
