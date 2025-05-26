@@ -5,7 +5,7 @@ Je suis spécialisé dans la création de sites e-commerce innovants et sur mesu
 
 
 <!--START SENTENCE-->
-Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.
+La perfection pixel par pixel, une div à la fois.
 <!--END SENTENCE-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-bastin-bb278713a/) 
@@ -16,7 +16,7 @@ Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.
 
 
 <!--START DATE-->
-Last updated on: Sun May 25 2025
+Last updated on: Mon May 26 2025
 <!--END DATE-->
 
 
