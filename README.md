@@ -5,11 +5,11 @@ Je suis basé en France 🇫🇷.
 
 
 <!--START SENTENCE-->
-Ma vie est une animation constante entre les rêves et le DOM.
+Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.
 <!--END SENTENCE-->
 
 <!--START DATE-->
-Last updated on: Fri Jul 04 2025
+Last updated on: Sat Jul 05 2025
 <!--END DATE-->
 
 
