@@ -5,11 +5,11 @@ Je suis basé en France 🇫🇷.
 
 
 <!--START SENTENCE-->
-La perfection pixel par pixel, une div à la fois.
+Ma vie est une animation constante entre les rêves et le DOM.
 <!--END SENTENCE-->
 
 <!--START DATE-->
-Last updated on: Tue Dec 02 2025
+Last updated on: Wed Dec 03 2025
 <!--END DATE-->
 
 
