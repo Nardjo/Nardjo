@@ -5,11 +5,11 @@ Je suis basé en France 🇫🇷.
 
 
 <!--START SENTENCE-->
-Quand je ne code pas, je cherche le bouton 'inspecter' dans la vraie vie.
+La perfection pixel par pixel, une div à la fois.
 <!--END SENTENCE-->
 
 <!--START DATE-->
-Last updated on: Wed Jan 21 2026
+Last updated on: Thu Jan 22 2026
 <!--END DATE-->
 
 
