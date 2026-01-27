@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Nardjo&color=blue&style=flat-square)
+
 ## Hello, je suis Jordan 👋🏻
 
 Développeur web **Vue.js / Nuxt / TypeScript** basé en France 🇫🇷
@@ -14,9 +16,9 @@ Je transforme vos besoins métier en applications web performantes, maintenables
 
 ### Stack technique
 
-**Frontend** : Vue.js, Nuxt, TypeScript, Tailwind CSS, Nuxt UI, Shadcn
-**Backend** : Adonis.js, Prisma, PostgreSQL
-**Paiements** : Stripe, Lemon Squeezy
+**Frontend** : Vue.js, Nuxt, TypeScript, Tailwind CSS, Nuxt UI, Shadcn<br>
+**Backend** : Adonis.js, Prisma, PostgreSQL<br>
+**Paiements** : Stripe, Lemon Squeezy<br>
 **Déploiement** : Coolify, Vercel, Netlify
 
 ### Je lance AURA 🔮
