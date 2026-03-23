@@ -6,7 +6,7 @@ Développeur freelance & builder • Obsédé par la liberté et la tech
 
 ### Ce que j'ai buildé
 
-- 🎙️ **[transcr.io](https://github.com/Nardjo/transcrio)** — Transcris n'importe quelle vidéo en texte, simplement.
+- 🎙️ **[transcr.io](https://transcr.io)** — Transcris n'importe quelle vidéo en texte, simplement.
 - 🛠️ **[Shipcraft](https://github.com/Nardjo/shipcraft)** — Plugin Claude Code avec mon workflow.
 - 🔮 **[AURA](https://ton-aura.fr/)** — Accompagnement pour créer ta page de vente clé en main en 30 jours. Copywriting + développement.
 
